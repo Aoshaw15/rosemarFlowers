@@ -4,6 +4,8 @@ A responsive website template for a local floral shop.
 <br>
 <br>
 **Link to project:** (https://rosemarflowers.netlify.app/)
+<br>
+![rosey-port](https://user-images.githubusercontent.com/109254463/215358377-3d59f7a5-3a64-4246-b30a-f518de444277.PNG)
 
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript, Framework of choice
